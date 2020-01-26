@@ -46,6 +46,7 @@
 「chromebook C101PA」(ASUS)でCPUがarm系であるとか。
 
 下記の説明は見ておくといいかもしれません。
+
 [組み込み開発におけるARMとは？](https://www.eipc.jp/embedded/arm/)
 
 困ったものだなと思っていたら、
