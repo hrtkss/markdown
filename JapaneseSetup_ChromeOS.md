@@ -1,4 +1,4 @@
-# chromebook C101PAに日本語入力の設定をする
+# chromebook C101PAにlinuxを入れてvscodeの日本語入力設定をする
 
 ### 参考URL
  - [Chromebook C101PAのcrostiniでlinuxアプリを使ってみた](https://ponpon.asa.link/2018/10/20/c101pa%e3%81%a7crostini%e3%81%a7linux%e3%82%a2%e3%83%97%e3%83%aa%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/)
