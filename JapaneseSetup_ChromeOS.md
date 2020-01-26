@@ -7,6 +7,8 @@
  - [ChromeOSのLinux(Crostini)で日本語入力(自動起動対応)](https://www.axon.jp/entry/2018/10/18/201812)
 
 
+
+
 ## 1. 事前準備
 
 - **Linuxのインストール**
@@ -25,11 +27,13 @@
     $ sudo fc-cache -fv
 
  
+ 
  - タイムゾーンの設定（必須ではない）
  
  なんとなくログ等を監視する場合に時間がわかりやすいように。
 
     $ sudo timedatectl set-timezone Asia/Tokyo
+
 
 
 - ロケールの設定
